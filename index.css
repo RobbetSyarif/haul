@@ -161,3 +161,11 @@
     opacity: .3;
   }
 }
+
+@media screen and (max-width:800){
+  .card{
+    transform:scale(2);
+  }
+}
+
+
