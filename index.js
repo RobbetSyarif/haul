@@ -103,7 +103,7 @@ setInterval(()=>{
 setInterval(function(){
   let obj = document.createElement("div");
   let size = Math.round(Math.random()*50);
-  let posisi = Math.round(Math.random()*100);
+  let posisi = Math.round(Math.random()*90);
   size = size < 10 ? 10 : size;
   obj.style.position = "absolute";
   obj.style.width = `${size}px`;
