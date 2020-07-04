@@ -1,18 +1,18 @@
 @font-face{
   font-family:"neon";
-  src: url(../Neon.ttf);
+  src: url(Neon.ttf);
 }
 @font-face{
   font-family:"noodle";
-  src: url(../noodle.ttf);
+  src: url(noodle.ttf);
 }
 @font-face{
   font-family:"san";
-  src: url(../sans.otf);
+  src: url(sans.otf);
 }
 @font-face{
   font-family:"sant";
-  src: url(../san.ttf);
+  src: url(san.ttf);
 }
 *{
   margin: 0;
@@ -21,7 +21,7 @@
 .box{
   width: 100%;
   height: 100vh;
-  background-image: url('/wp.jpg');
+  background-image: url('wp.jpg');
   background-size: cover;
   display: flex;
   justify-content:center ;
